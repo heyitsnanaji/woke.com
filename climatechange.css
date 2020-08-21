@@ -1,0 +1,157 @@
+
+.climateChangeBody{
+  background-image: url(https://d2v8skpstyl8bm.cloudfront.net/products/images/product/e/c/ecd1d416-62ee-3744-8db2-617e0b7d10a8.jpg?1507557817);
+}
+
+.climateChangeTitle{
+   text-align: center;
+ background-image: url(https://i.pinimg.com/564x/43/38/b4/4338b4178f70c2337aba1837ff1f71df.jpg);
+  background-size: 150px; 
+  color: lightblue;
+  text-shadow: -2px -2px 0 #123c69ff, 2px -2px 0 #123c69ff, -2px 2px 0 #123c69ff, 2px 2px 0 #123c69ff;
+  font-size:40px;
+  margin-top:20px;
+}
+.climateChangeSections{
+  background-color: lightblue;
+  opacity: 0.95;
+  padding:25px;
+  margin:25px;
+  border-radius: 20px;
+}
+
+.climateChangeSectionsText{
+  padding: 5px;
+  overflow: hidden;
+}
+
+.climateTopic{
+  text-align: center;
+}
+
+body{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+
+.navBar{
+  /*this controls the formatting for the blue background of the nav bar*/
+  color:#eee2dcff;
+  background-color:#123c69ff; 
+  padding: 10px;
+  text-align: center;
+  border-bottom: 10px solid #AC3B61;
+}
+.navBarLink {
+/*this controls the formatting of all the links to the seperate pages at the top*/
+color:#eee2dcff;
+padding: 10px;
+font-size:20px;
+text-declaration: none;
+ }
+
+.navBar:link {
+  color:#eee2dcff;
+} 
+a:hover {
+  color: #e6beae;
+}
+
+.footer{
+ color:#eee2dcff;
+ background-color:#123c69ff;
+ padding: 10px;
+text-align: center;
+border-top: 10px solid #AC3B61;
+border-bottom: 10px solid #AC3B61;
+}
+
+.wokeCom{
+  /*this controls just the logo "woke.com" at the top of the nav bar*/
+  font-size: 50px;
+  font-family: Jazz LET, fantasy;
+}
+
+.mainPageBody{
+  /*this is the background color for the homepage, who we are, and contact us pages*/
+  background-color:#edc7b7;
+}
+.slogan {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.envRacismVid{
+  padding:10px;
+  margin:15px;
+  border-radius: 20px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.threeReasons{
+  padding: 5px;
+  overflow: hidden;
+}
+
+.threeReasons img{
+  float:right;
+  margin: 10px;
+  height:400px;
+  width:400px;
+  object-fit: cover;
+  padding-top:60px;
+}
+
+.callsToActionEvents img{
+  float:right;
+  margin: 10px;
+  height:500px;
+  width:500px;
+  object-fit: cover;
+}
+
+.callsToActionEvents{
+  padding: 10px;
+  overflow: hidden;
+  font-size:30px;
+  font-weight: 500;
+}
+
+.fiveReasons img{
+   float:right;
+   margin: 10px;
+   padding: 10px;
+   height:400px;
+   width:400px;
+   object-fit:cover;
+   padding-right:20px;
+}
+
+.fiveReasons{
+  padding: 10px;
+  overflow: hidden;
+  font-size:30px;
+  font-weight: 550;
+}
+
+
+.center{
+  text-align:center;
+}
+
+.space{
+  padding:6px;
+}
+
+.CSLINK{
+  color:rgb(92, 136, 255);
+}

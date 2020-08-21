@@ -1,0 +1,140 @@
+.lgbtqPage{
+  /*this is the background color for the lgbtq page*/
+  background-color: #ebc8ff;
+}
+
+.lgbtqRightsTitle{
+  text-align: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6GjZk9Vy4SOg8MkSWpOofKxZdVFAxhNjJuQ&usqp=CAU);
+  background-size: 120px; 
+  color: black;
+  font-size:40px;
+  margin-top:20px;
+}
+
+.lgbtqSections{
+  background-color: #ffe2f9;
+   padding:30px;
+  margin:35px;
+  border-radius: 20px;
+}
+.lgbtqSectionTitle{
+  text-align:center;
+}
+.
+/*nice colors:   background-color: #efc3e6, f3c4fb*/
+
+.navBarLink{
+/*this controls the formatting of all the links to the seperate pages at the top*/
+color:#eee2dcff;
+padding: 10px;
+font-size:20px;
+text-declaration: none;
+ }
+
+.lgbtqLink:link{
+  color:#cb72ff;
+} 
+.lgbtqLink:hover{
+  color: rgb(232, 61, 255);
+}
+.lgbtqLink:visited{
+  color:#cb72ff;
+}
+
+li{
+  padding: 5px;
+  font-size:18px;
+  list-style-type: circle;
+}
+
+p{
+  padding: 5px;
+  font-size:18px;
+}
+
+.lgbtqVideo{
+  padding:10px;
+  margin:15px;
+  border-radius: 20px;
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.homelessList img {
+  float:right;
+   margin: 10px;
+   height:280px;
+   width:280px;
+   object-fit:cover;
+   padding-right:20px;
+}
+
+.homelessList{
+  overflow: hidden;
+  font-size:30px;
+  font-weight: 550;
+}
+
+.lgbtqBackgroundTerms img {
+  float:right;
+   margin: 10px;
+   height:200px;
+   width:300px;
+   object-fit:cover;
+   padding-right:20px;
+}
+
+.lgbtqbackgroundTerms{
+  overflow: hidden;
+}
+
+.sexualities img {
+  float:right;
+   margin: 10px;
+   height:200px;
+   width:300px;
+   object-fit:cover;
+   padding-right:20px;
+   padding-top:50px;
+}
+
+.sexualities{
+  overflow: hidden;
+}
+
+.gender img {
+  float:right;
+   margin: 10px;
+   height:200px;
+   width:300px;
+   object-fit:cover;
+   padding-right:20px;
+   padding-top:10px;
+}
+
+.gender{
+  overflow: hidden;
+}
+
+.conversionVideo{
+  padding:10px;
+  margin:15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.transVid{
+  padding:10px;
+  margin:15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center{
+  text-align:center;
+}

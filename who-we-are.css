@@ -1,0 +1,119 @@
+.navBar{
+  /*this controls the formatting for the blue background of the nav bar*/
+  color:#eee2dcff;
+  background-color:#123c69ff; 
+  padding: 10px;
+  text-align: center;
+  border-bottom: 10px solid #AC3B61;
+}
+.navBarLink{
+/*this controls the formatting of all the links to the seperate pages at the top*/
+color:#eee2dcff;
+padding: 10px;
+font-size:20px;
+}
+
+.footer{
+ color:#eee2dcff;
+ background-color:#123c69ff;
+ padding: 10px;
+text-align: center;
+border-top: 10px solid #AC3B61;
+border-bottom: 10px solid #AC3B61;
+}
+
+.wokeCom{
+  /*this controls just the logo "woke.com" at the top of the nav bar*/
+  font-size: 50px;
+  font-family: Jazz LET, fantasy;
+}
+
+.mainPageBody{
+  /*this is the background color for the homepage, who we are, and contact us pages*/
+   background-image: url(https://wallpaperaccess.com/full/1205414.jpg);
+}
+
+.questionsBox{
+  background-image: url(https://i.pinimg.com/originals/cf/0c/c6/cf0cc6c1cb2302ef1dddd7da4b11eae2.jpg);
+  padding:10px;
+  margin-left:60px;
+  margin-top: 15px;
+  margin:60px;
+
+  border-radius: 20px;
+  text-align:center;
+}
+
+a:link {
+  color:white;
+} 
+a:visited {
+  color: #adb5bd;
+}
+a:hover {
+  color: #6c757d;
+}
+a:active {
+  color: white;
+  }
+.fighforblm{
+  text-align: center;
+}
+
+.liveslost{
+  text-align:center;
+}
+
+.about-web{
+  text-align: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhzk-kKGRFNmpvdvxfA9o98x1eSKgkDHi6mQ&usqp=CAU);
+  background-size: 120px; 
+  color: cornflowerblue;
+  font-size:40px;
+  margin-top:20px;
+  text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;
+}
+
+ .bioBackground{
+   border: hidden;
+    background-image: url(https://www.lefthudson.com/wp-content/uploads/2019/11/ombre-background-beautiful-fade-ombre-wallpaper-mural-this-year-of-ombre-background.jpg);
+   border-radius: 15px; 
+   padding: 10px 10px;
+   text-align: center;
+   margin-left:100px;
+   margin-right:100px;
+   margin-bottom:10px;
+   margin-top:10px;
+ }
+
+ .bios {
+  font-size: 60px;
+ }
+ .about-web {
+   font-size: 60px;
+ }
+
+body{
+  font-family: 'Oswald', sans-serif;
+  text-align:center;
+}
+
+.bioBackground img{
+  float:left;
+   margin: 10px;
+   height:400px;
+   width:300px;
+   object-fit:cover;
+   padding-right:20px;
+   padding-top:50px;
+}
+
+.bioBackground{
+  overflow: hidden;
+}
+
+p{
+  font-size:20px;
+  padding-left:40px;
+  padding-right:40px;
+}

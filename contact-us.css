@@ -1,0 +1,52 @@
+.contactBody{
+ background-image: url(https://data.whicdn.com/images/345318527/original.jpg);
+}
+
+.questionsBox{
+  background-image: url(https://i.pinimg.com/originals/9f/67/9a/9f679ae88c12540649c90cb9caa038c0.jpg);
+  padding:10px;
+  margin-left:60px;
+  margin-top: 15px;
+  margin:60px;
+
+  border-radius: 20px;
+  text-align:center;
+}
+.form {
+  border: hidden;
+  border-radius: 20px;
+  background-color: #eee2dcff;
+}
+
+.navBarLink{
+/*this controls the formatting of all the links to the seperate pages at the top*/
+color:#eee2dcff;
+padding: 10px;
+font-size:20px;
+text-declaration: none;
+ }
+
+a:link {
+  color:#eee2dcff;
+} 
+a:visited {
+  color: #ce796b;
+}
+a:hover {
+  color: #e6beae;
+}
+a:active {
+  color: #eee2dcff;
+  }
+
+.name-output {
+  border: hidden;
+  background: white;
+  border-radius: 20px
+}
+
+.name-output {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}

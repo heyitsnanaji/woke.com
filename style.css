@@ -1,0 +1,119 @@
+
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+.navBar{
+  /*this controls the formatting for the blue background of the nav bar*/
+  color:#eee2dcff;
+  background-color:#123c69ff; 
+  padding: 10px;
+  text-align: center;
+  border-bottom: 10px solid #AC3B61;
+}
+.navBarLink{
+/*this controls the formatting of all the links to the seperate pages at the top*/
+color:#eee2dcff;
+padding: 10px;
+font-size:20px;
+}
+
+.navBarLink:hover{
+   color: #e6beae;
+ }
+
+
+.footer{
+ color:#eee2dcff;
+ background-color:#123c69ff;
+ padding: 10px;
+text-align: center;
+border-top: 10px solid #AC3B61;
+border-bottom: 10px solid #AC3B61;
+}
+
+.wokeCom{
+  /*this controls just the logo "woke.com" at the top of the nav bar*/
+  font-size: 50px;
+  font-family: Jazz LET, fantasy;
+}
+
+.mainPageBody{
+  /*this is the background color for the homepage, who we are, and contact us pages*/
+  background-image: url (https://i.pinimg.com/originals/21/e9/df/21e9df11a4d68cb1bcf2e1c06a7bca4d.png);
+}
+
+.homePageBody{
+  /*this is the background color for the homepage*/
+   background-color: #edc7b7ff;
+  
+}
+
+/*this is a section specific to the home page*/
+
+.spotlight{
+  background-color: #eee2dcff;
+  padding:10px;
+  margin:25px;
+  border-radius: 20px;
+}
+
+.spotlightImg{
+  float:left;
+  margin: 10px;
+  width: 280px;
+  padding-left:40px;
+  padding-right:40px;
+  padding-bottom:40px;
+  padding-top:70px;
+}
+
+.spotlightText{
+  padding: 5px;
+  overflow: hidden;
+}
+
+.mission{
+  background-color: #eee2dcff;
+  padding:25px;
+  padding-bottom:40px;
+  margin:25px;
+  text-align:center;
+  border-radius: 20px;
+}
+
+.video{
+  background-color: #eee2dcff;
+  padding:25px;
+  padding-bottom:40px;
+  margin:25px;
+  text-align:center;
+  border-radius: 20px;
+}
+
+p{
+  padding: 5px;
+  font-size:18px;
+}
+
+li{
+  padding: 5px;
+  font-size:18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// nice job :) 🙂
+

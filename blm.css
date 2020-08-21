@@ -1,0 +1,90 @@
+
+.Blmpage{
+  background-color: gray;
+  text-align:center;
+}
+
+img{
+  width:250px;
+}
+
+.BLMTitle{
+  text-align: center;
+  background-image: url(https://i.pinimg.com/564x/f9/5e/a7/f95ea70f285c1a5697906ee6c19097d6.jpg);
+  background-size: 120px; 
+  color: gainsboro;
+  font-size:40px;
+  margin-top:20px;
+   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+.historyofblmtitle{
+  text-align: center;
+  background-image: url(https://i.pinimg.com/originals/23/7a/b0/237ab0e6a3cd09cebc8c5c432e3e5aa4.jpg);
+  background-size: 120px; 
+  color: black;
+  font-size:40px;
+  margin-top:10px
+}
+
+.BLMSections{
+  background-color:lightgray;
+  padding:10px;
+  margin:25px;
+  border-radius: 20px;
+}
+
+.BLMSectionTitle{
+  text-align: center;
+  font-size: 30px;
+}
+
+.BLMIntro{
+  padding: 5px;
+  overflow: hidden;
+}
+
+
+.BLMLink:link {
+  color: rgb(75, 75, 75);
+} 
+.BLMLink:visited {
+  color: #adb5bd;
+}
+.BLMLink:hover {
+  color: #6c757d;
+}
+.BLMLink:active {
+  color: #adb5bd;
+  }
+
+  
+.fighforblm{
+  text-align: center;
+}
+
+.liveslost{
+  text-align:center;
+}
+
+.names{
+  text-align: center;
+}
+
+.BLMFist{
+  text-align: center;
+  background-image: url(https://rhstoday.com/wp-content/uploads/2020/05/IMG_2772.jpg);
+  background-size: 48px; 
+  color: white;
+  font-size:30px;
+  margin-top:10px;
+  width: 100%;
+}
+
+.historyOfBLMIng{
+  float:left;
+}
+
+.threeGoals{
+  text-align:center;
+}
